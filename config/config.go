@@ -1,4 +1,4 @@
-package diablo
+package config
 
 import (
 	"errors"
